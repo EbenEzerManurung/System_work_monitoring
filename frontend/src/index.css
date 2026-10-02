@@ -1,0 +1,67 @@
+@import "tailwindcss";
+@import "react-big-calendar/lib/css/react-big-calendar.css";
+
+@theme {
+  --color-tosca-50:  #F0FDFA;
+  --color-tosca-100: #CCFBF1;
+  --color-tosca-200: #99F6E4;
+  --color-tosca-300: #5EEAD4;
+  --color-tosca-400: #2DD4BF;
+  --color-tosca-500: #14B8A6;
+  --color-tosca-600: #0D9488;
+  --color-tosca-700: #0F766E;
+  --color-tosca-800: #115E59;
+  --color-tosca-900: #134E4A;
+  --color-tosca-950: #042F2E;
+
+  --color-ink-50:  #F8FAFC;
+  --color-ink-100: #F1F5F9;
+  --color-ink-200: #E2E8F0;
+  --color-ink-300: #CBD5E1;
+  --color-ink-400: #94A3B8;
+  --color-ink-500: #64748B;
+  --color-ink-600: #475569;
+  --color-ink-700: #334155;
+  --color-ink-800: #1E293B;
+  --color-ink-900: #0F172A;
+
+  --font-sans: "Inter", "Segoe UI", system-ui, -apple-system, sans-serif;
+}
+
+@layer base {
+  * { box-sizing: border-box; }
+  html, body, #root { height: 100%; margin: 0; }
+  body {
+    font-family: var(--font-sans);
+    background: var(--color-ink-50);
+    color: var(--color-ink-800);
+    -webkit-font-smoothing: antialiased;
+    overscroll-behavior-y: none;
+  }
+  ::-webkit-scrollbar { width: 8px; height: 8px; }
+  ::-webkit-scrollbar-track { background: transparent; }
+  ::-webkit-scrollbar-thumb { background: var(--color-ink-300); border-radius: 4px; }
+  ::-webkit-scrollbar-thumb:hover { background: var(--color-ink-400); }
+}
+
+@layer utilities {
+  .scrollbar-thin { scrollbar-width: thin; }
+  .glass {
+    background: rgba(255, 255, 255, 0.72);
+    backdrop-filter: blur(12px);
+  }
+}
+
+@keyframes fadeIn {
+  from { opacity: 0; transform: translateY(4px); }
+  to   { opacity: 1; transform: translateY(0); }
+}
+.animate-fade-in { animation: fadeIn .2s ease-out; }
+
+/* Override react-big-calendar agar match tema tosca */
+.rbc-calendar { font-family: var(--font-sans); }
+.rbc-today { background-color: #F0FDFA !important; }
+.rbc-header { padding: 8px 4px; font-weight: 600; color: #334155; border-bottom: 1px solid #E2E8F0; }
+.rbc-toolbar button { color: #334155; border-radius: 8px; }
+.rbc-toolbar button:hover { background: #F1F5F9; }
+.rbc-toolbar button.rbc-active { background: #0D9488; color: white; }
