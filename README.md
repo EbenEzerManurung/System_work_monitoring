@@ -1,7 +1,6 @@
 <div align="center">
 
-<img width="1280" height="320" alt="image" src="https://github.com/user-attachments/assets/815edccc-b2ba-4f5e-aecc-f79ae72a7d84" />
-
+<img width="256" height="256" alt="image" src="https://github.com/user-attachments/assets/0e9e5c7a-02f2-488c-8e99-9a24b82f7d40" />
 
 <br/>
 
@@ -23,8 +22,7 @@
 
 <br/>
 
-<img width="256" height="256" alt="image" src="https://github.com/user-attachments/assets/0e9e5c7a-02f2-488c-8e99-9a24b82f7d40" />
-
+<img width="1280" height="320" alt="image" src="https://github.com/user-attachments/assets/815edccc-b2ba-4f5e-aecc-f79ae72a7d84" />
 
 ## Overview
 
@@ -499,17 +497,17 @@ Contributions, issues, and feature requests are welcome.
 4. Push to the branch: `git push origin feature/amazing-feature`
 5. Open a Pull Request
 
-## License
+---
 
-Distributed under the MIT License. See [`LICENSE`](LICENSE) for details.
+## 📄 License
 
-<br/>
+This project is licensed under the **MIT License** — see the [LICENSE](https://tlo.mit.edu/resources/mit-github) file for details.
 
 ---
 
 <div align="center">
 
-<img src="docs/images/logo.svg" alt="WorkMonitor" width="56" />
+<img width="256" height="256" alt="image" src="https://github.com/user-attachments/assets/0e9e5c7a-02f2-488c-8e99-9a24b82f7d40" />
 
 ### Eben Nezer Manurung
 
