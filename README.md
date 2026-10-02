@@ -6,7 +6,7 @@
 <br/>
 
 ![React](https://img.shields.io/badge/React-19.3.0-61DAFB?style=for-the-badge&logo=react&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-4-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-4.3.3-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-1.22-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-8.4-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
@@ -22,6 +22,9 @@
 </div>
 
 <br/>
+
+<img width="256" height="256" alt="image" src="https://github.com/user-attachments/assets/0e9e5c7a-02f2-488c-8e99-9a24b82f7d40" />
+
 
 ## Overview
 
@@ -403,8 +406,37 @@ A calm teal palette, chosen to reduce eye strain and support focus during long w
 <tr>
 <td width="50%">
 
-**Login — Enterprise Theme**
+**Form Login**
 <img width="1836" height="891" alt="image" src="https://github.com/user-attachments/assets/e21ba597-d3cc-4ca0-af0b-4020f0025aa2" />
+
+**Dashboard**
+<img width="1918" height="1005" alt="image" src="https://github.com/user-attachments/assets/06796200-b0a3-41eb-8bc1-205ea1b0c795" />
+
+**PWA**
+<img width="1882" height="1027" alt="image" src="https://github.com/user-attachments/assets/c0f2c222-478a-4b5c-b84a-1fc6d03e4943" />
+
+**Departments**
+<img width="1918" height="985" alt="image" src="https://github.com/user-attachments/assets/115eec66-5f43-49a7-b6e0-df16664c82c4" />
+
+**Users**
+<img width="1914" height="996" alt="image" src="https://github.com/user-attachments/assets/44f81cf5-00ed-4cfc-ae81-a16edccf96e1" />
+
+**Backlog**
+<img width="1909" height="996" alt="image" src="https://github.com/user-attachments/assets/22bc7697-9de2-4483-9308-1a76f3bee8ee" />
+
+<img width="1918" height="982" alt="image" src="https://github.com/user-attachments/assets/01757062-a079-4ba4-bc83-409b878c7b50" />
+<img width="1918" height="1012" alt="image" src="https://github.com/user-attachments/assets/733c3c04-1cd0-4c7b-af13-26eab08ef2db" />
+<img width="1906" height="1009" alt="image" src="https://github.com/user-attachments/assets/3dc59b57-fb27-404c-8010-99241c64038a" />
+
+**Sprints**
+<img width="1918" height="985" alt="image" src="https://github.com/user-attachments/assets/7005fb6e-5a3b-4dac-8a4b-256c3a157f72" />
+
+**Kanban Board**
+<img width="1917" height="990" alt="image" src="https://github.com/user-attachments/assets/a8149a76-8392-4eaf-ba74-f4aef643e864" />
+<img width="1918" height="982" alt="image" src="https://github.com/user-attachments/assets/ce0db485-b5d9-47c1-b26c-660a38fe97c6" />
+
+**Calender**
+<img width="1917" height="997" alt="image" src="https://github.com/user-attachments/assets/85902005-d98d-4c16-aa1b-1c917afe69ba" />
 
 
 <details>
@@ -412,7 +444,17 @@ A calm teal palette, chosen to reduce eye strain and support focus during long w
 <br>
 
 **Local Run Program on Git**
-<img width="1150" height="303" alt="image" src="https://github.com/user-attachments/assets/26b7c7b9-320c-43ab-a795-b2830417b8d3" />
+#Backend:
+<img width="1233" height="316" alt="image" src="https://github.com/user-attachments/assets/615749eb-35bc-4242-83e5-0863d502b156" />
+
+<img width="1266" height="975" alt="image" src="https://github.com/user-attachments/assets/3db9baaf-ca24-4cb7-a921-da5131258b9a" />
+
+<img width="1723" height="1000" alt="image" src="https://github.com/user-attachments/assets/fbd486ff-2bed-4f3c-b450-059b30b1d0d6" />
+
+#Frontend:
+<img width="1198" height="352" alt="image" src="https://github.com/user-attachments/assets/44597baf-a080-485c-b7b3-1410ed0cc11e" />
+
+
 
 </details>
 
