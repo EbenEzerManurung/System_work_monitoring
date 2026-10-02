@@ -1,10 +1,11 @@
 <div align="center">
 
-<img src="docs/images/banner.svg" alt="WorkMonitor Enterprise — Task management for modern teams" width="100%" />
+<img width="1280" height="320" alt="image" src="https://github.com/user-attachments/assets/815edccc-b2ba-4f5e-aecc-f79ae72a7d84" />
+
 
 <br/>
 
-![React](https://img.shields.io/badge/React-19-61DAFB?style=for-the-badge&logo=react&logoColor=white)
+![React](https://img.shields.io/badge/React-19.3.0-61DAFB?style=for-the-badge&logo=react&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-4-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-1.22-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-8.4-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
@@ -26,7 +27,7 @@
 
 **WorkMonitor Enterprise** is a full-stack task management platform that gives teams a single source of truth for every task, sprint, and team member. It covers the entire delivery cycle — backlog grooming, sprint planning, Kanban execution, analytics, and auditing — in one cohesive product.
 
-The backend is written in **Go** and the frontend in **React 19 + Tailwind CSS 4**. A clean layered architecture ensures every protected route passes through authentication and role guards before it ever reaches the database.
+The backend is written in **Go** and the frontend in **React 19.3.0 + Tailwind CSS 4.3.3**. A clean layered architecture ensures every protected route passes through authentication and role guards before it ever reaches the database.
 
 <br/>
 
@@ -478,6 +479,6 @@ Full Stack Developer • Backend Engineer
 
 If this project helped you, please consider giving it a ⭐
 
-<sub>Built with React, Tailwind CSS, Go, and MySQL</sub>
+<sub>Built with React 19.3.0, Tailwind CSS 4.3.3, Go, and MySQL</sub>
 
 </div>
