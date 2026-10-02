@@ -349,23 +349,25 @@ A calm teal palette, chosen to reduce eye strain and support focus during long w
 
 ---
 
-## Screenshots
+## 📸 Screenshots
 
-| Login | Dashboard |
-|:---:|:---:|
-| <img src="docs/images/login.png" alt="Login" /> | <img src="docs/images/dashboard.png" alt="Dashboard" /> |
+<table>
+<tr>
+<td width="50%">
 
-| Kanban Board | Sprint Management |
-|:---:|:---:|
-| <img src="docs/images/kanban.png" alt="Kanban Board" /> | <img src="docs/images/sprints.png" alt="Sprint Management" /> |
+**Login — Enterprise Theme**
+<img width="1836" height="891" alt="image" src="https://github.com/user-attachments/assets/e21ba597-d3cc-4ca0-af0b-4020f0025aa2" />
 
-| Backlog | Calendar |
-|:---:|:---:|
-| <img src="docs/images/backlog.png" alt="Backlog" /> | <img src="docs/images/calendar.png" alt="Calendar" /> |
 
-| Audit Trail | User Management |
-|:---:|:---:|
-| <img src="docs/images/audit.png" alt="Audit Trail" /> | <img src="docs/images/users.png" alt="User Management" /> |
+<details>
+<summary><b>🖥️ Local Run Program</b></summary>
+<br>
+
+**Local Run Program on Git**
+<img width="1150" height="303" alt="image" src="https://github.com/user-attachments/assets/26b7c7b9-320c-43ab-a795-b2830417b8d3" />
+
+</details>
+
 
 ---
 
