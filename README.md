@@ -429,12 +429,13 @@ Distributed under the MIT License. See [`LICENSE`](LICENSE) for details.
 
 <div align="center">
 
-### Author
+## 👨‍💻 Author
 
 **Eben Nezer Manurung**
-Full Stack Developer · Backend Engineer
+Full Stack Developer • Backend Engineer
 
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/your-username)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/EbenEzerManurung)
+
 
 If this project helped you, please consider giving it a ⭐
 
